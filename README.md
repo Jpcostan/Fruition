@@ -1,5 +1,5 @@
 # Fruition
-Repository for Fruition On Demand NFT minting web application
+Repository for Fruition Of The Damned NFT minting web application
 
 
 # Architectural Design
